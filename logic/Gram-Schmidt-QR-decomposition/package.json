@@ -1,0 +1,13 @@
+{
+  "name": "gram-schmidt-qr-decomposition",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Gram-Schmidt-orthogonalization .js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
